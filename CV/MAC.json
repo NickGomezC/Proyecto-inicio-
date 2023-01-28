@@ -95,6 +95,52 @@
         }
       ]
     },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Adobe Photoshop",
+          "type": "technology"
+        },
+        {
+          "name": "Visual Basic",
+          "type": "technology"
+        },
+        {
+          "name": "Visual Studio Code",
+          "type": "technology"
+        }
+      ],
+      "discardedCompetences": [
+        {
+          "name": "CSS",
+          "type": "technology"
+        },
+        {
+          "name": "HTML",
+          "type": "technology"
+        },
+        {
+          "name": "JAVA",
+          "type": "technology"
+        },
+        {
+          "name": "JavaScript",
+          "type": "technology"
+        },
+        {
+          "name": "MySQL",
+          "type": "technology"
+        },
+        {
+          "name": "PHP",
+          "type": "technology"
+        },
+        {
+          "name": "Visual Basic",
+          "type": "technology"
+        }
+      ]
+    },
     "status": "searchingActively"
   }
 }
