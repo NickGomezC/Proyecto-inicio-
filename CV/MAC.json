@@ -1,0 +1,72 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Nicolas",
+      "surnames": "Gomez Cifuentes",
+      "title": "Coordinador TI",
+      "description": "Soy Proactivo me gusta aprender cosas nuevas, me gusta la innovación el trabajo en equipo",
+      "location": {
+        "notes": "Autocompleted using Google Maps API"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/nicolas-gomez-cifuentes-01453423a/"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Puro Cuero "
+        },
+        "roles": [
+          {
+            "name": "Coordinador de TI",
+            "startDate": "2022-07-01",
+            "challenges": [
+              {
+                "description": "Skills: Servicio de soporte técnico · Hardware · Mejora de procesos · Desarrollo de software · Bases de datos · Desarrollo front end"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Unisys "
+        },
+        "roles": [
+          {
+            "name": "TECHNICAL SUPPORT",
+            "startDate": "2022-04-01",
+            "finishDate": "2022-07-31",
+            "challenges": [
+              {
+                "description": "TBD"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/nicolas-gomez-cifuentes-01453423a/"
+        }
+      ]
+    },
+    "status": "searchingActively"
+  }
+}
